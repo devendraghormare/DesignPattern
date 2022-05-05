@@ -1,4 +1,4 @@
-package TempaleDesignPatteren;
+package TemplateDesignPattern;
 
 public abstract class HouseTemplate {
 
